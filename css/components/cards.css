@@ -1,0 +1,25 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.card {
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  width: 300px;
+  height: 235px;
+  color: #231F21;
+  padding-top: 28px;
+}
+
+.card < p {
+  color: grey;
+}
+
+.far {
+  color: #ACC1E2;
+  font-size: 70px;
+}

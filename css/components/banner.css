@@ -1,0 +1,50 @@
+.container {
+  margin: 0 auto;
+  width: 1050px;
+}
+
+.banner {
+  background-image: linear-gradient(rgba(250,250,250,0.1), rgba(0,0,0,0.1)), url('../../images/meditation2.jpg');
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  color: #231F21;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.space {
+  padding-top: 95px;
+  margin-bottom: 0;
+}
+
+.button {
+  display: inline-block;
+  margin-right: 20px;
+  background-color: #F8D103;
+  padding: 12px 25px;
+  color: #231F21;
+/*  border: 0.5px solid white;*/
+  border-radius: 25px;
+  font-weight: lighter;
+  font-size: 12px;
+}
+
+.button:hover {
+  background-color: #F8CD4A;
+}
+/*
+.center {
+  text-align: center;
+}*/
+
+.padding-top {
+  margin-top: 50px;
+  color: #231F21;
+  text-align: center;
+}
+
+

@@ -1,0 +1,35 @@
+.footer {
+  background-color: #232E46;
+  height: 150px;
+  text-orientation: center;
+  text-align: center;
+  padding-top: 70px;
+  margin-top: 40px;
+  position: relative;
+}
+
+#social-logos {
+  display: inline;
+  color: white;
+  font-size: 40px;
+  text-decoration: none;
+  padding-top: 100px;
+  margin: 15px;
+  /*text-align: center;*/
+}
+
+i:hover {
+color: #9FACB6;
+}
+
+li {
+  display: inline;
+}
+
+.footer p {
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  left: 630px;
+}
+
